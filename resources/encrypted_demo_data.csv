@@ -1,0 +1,111 @@
+ID,Product,Year,City,impression,clicks,Price per unit,units_sold,Total sale amount
+1,Garden Table,2022,Lisbon,1632,301,200,1,200
+2,Garden Table,2020,Lisbon,2428,341,200,3,600
+3,Garden Table,2021,Amsterdam,1895,328,200,6,1200
+4,Garden Table,2023,Berlin,1678,374,200,3,600
+5,Garden Table,2023,Amsterdam,1429,328,200,3,600
+6,Garden Table,2023,Lisbon,2647,270,200,5,1000
+7,Garden Table,2023,Berlin,1439,379,200,7,1400
+8,Garden Table,2021,Amsterdam,2955,274,200,10,2000
+9,Garden Table,2020,Lisbon,2796,302,200,5,1000
+10,Garden Table,2023,Amsterdam,697,284,200,6,1200
+11,TV,2020,Amsterdam,2856,292,400,4,1600
+12,TV,2022,Berlin,2142,328,400,6,2400
+13,TV,2023,Rome,2091,334,400,8,3200
+14,TV,2020,Lisbon,1245,286,400,8,3200
+15,TV,2022,Berlin,794,263,400,9,3600
+16,TV,2021,Berlin,1930,267,400,6,2400
+17,TV,2021,Amsterdam,2202,365,400,2,800
+18,TV,2023,Berlin,1181,266,400,6,2400
+19,TV,2022,Lisbon,2187,307,400,2,800
+20,TV,2022,Rome,2705,302,400,1,400
+21,TV,2020,Amsterdam,1695,347,400,4,1600
+22,TV,2023,Amsterdam,928,269,400,1,400
+23,TV,2023,Amsterdam,576,379,400,9,3600
+24,Sonos Speaker,2023,Lisbon,2810,315,350,5,1750
+25,Sonos Speaker,2021,Berlin,2661,297,350,1,350
+26,Sonos Speaker,2021,Berlin,2622,376,350,4,1400
+27,Sonos Speaker,2022,Amsterdam,2908,380,350,10,3500
+28,Sonos Speaker,2022,Amsterdam,1594,250,350,4,1400
+29,Sonos Speaker,2023,Lisbon,709,344,350,10,3500
+30,Sonos Speaker,2020,Amsterdam,970,349,350,8,2800
+31,Sonos Speaker,2021,Amsterdam,1712,326,350,7,2450
+32,Sonos Speaker,2021,Amsterdam,2352,397,350,8,2800
+33,Sonos Speaker,2023,Rome,1808,364,350,10,3500
+34,Sonos Speaker,2023,Berlin,2688,348,350,2,700
+35,Sonos Speaker,2022,Berlin,2948,354,350,10,3500
+36,Sonos Speaker,2023,Amsterdam,1368,327,350,6,2100
+37,Sonos Speaker,2021,Berlin,2200,384,350,10,3500
+38,Sonos Speaker,2020,Lisbon,1572,271,350,7,2450
+39,WIne Collection,2021,Berlin,1236,382,50,1,50
+40,WIne Collection,2022,Lisbon,614,332,50,4,200
+41,WIne Collection,2020,Lisbon,2182,325,50,8,400
+42,WIne Collection,2021,Berlin,940,312,50,1,50
+43,WIne Collection,2021,Rome,2366,316,50,4,200
+44,WIne Collection,2023,Rome,2734,376,50,1,50
+45,WIne Collection,2021,Rome,1850,365,50,5,250
+46,WIne Collection,2020,Lisbon,814,271,50,3,150
+47,WIne Collection,2023,Amsterdam,2656,258,50,8,400
+48,WIne Collection,2023,Rome,2841,385,50,10,500
+49,Running Shoes,2023,Amsterdam,2210,321,120,6,720
+50,Running Shoes,2023,Berlin,1452,264,120,7,840
+51,Running Shoes,2020,Lisbon,1217,371,120,5,600
+52,Running Shoes,2020,Amsterdam,2295,303,120,10,1200
+53,Running Shoes,2023,Amsterdam,711,258,120,9,1080
+54,Running Shoes,2022,Lisbon,2507,283,120,5,600
+55,Running Shoes,2021,Amsterdam,1664,313,120,6,720
+56,Running Shoes,2020,Rome,2508,372,120,9,1080
+57,Running Shoes,2020,Amsterdam,1283,377,120,8,960
+58,Running Shoes,2022,Berlin,839,381,120,10,1200
+59,Running Shoes,2020,Rome,1993,382,120,1,120
+60,Running Shoes,2020,Lisbon,2003,384,120,2,240
+61,Airpods,2023,Berlin,2926,374,300,8,2400
+62,Airpods,2023,Berlin,2240,272,300,5,1500
+63,Airpods,2020,Lisbon,2715,329,300,6,1800
+64,Airpods,2022,Lisbon,2408,354,300,9,2700
+65,Airpods,2021,Amsterdam,2711,284,300,6,1800
+66,Airpods,2022,Berlin,565,397,300,7,2100
+67,Airpods,2023,Amsterdam,1232,397,300,7,2100
+68,Airpods,2021,Rome,1224,319,300,6,1800
+69,Airpods,2021,Rome,1273,360,300,6,1800
+70,Airpods,2023,Berlin,2078,328,300,4,1200
+71,Airpods,2020,Berlin,2600,298,300,7,2100
+72,Airpods,2022,Lisbon,1214,286,300,9,2700
+73,Airpods,2023,Rome,1492,294,300,7,2100
+74,Airpods,2023,Rome,541,379,300,3,900
+75,Canvas Paper Set,2022,Amsterdam,512,332,35,10,350
+76,Canvas Paper Set,2020,Amsterdam,2958,251,35,6,210
+77,Canvas Paper Set,2023,Lisbon,1548,331,35,1,35
+78,Canvas Paper Set,2021,Amsterdam,2462,384,35,8,280
+79,Canvas Paper Set,2020,Rome,2795,363,35,4,140
+80,Canvas Paper Set,2023,Amsterdam,1136,306,35,6,210
+81,Canvas Paper Set,2023,Lisbon,1942,265,35,2,70
+82,Canvas Paper Set,2022,Lisbon,1630,302,35,3,105
+83,Canvas Paper Set,2023,Berlin,2629,310,35,2,70
+84,Canvas Paper Set,2022,Amsterdam,1358,345,35,10,350
+85,Canvas Paper Set,2022,Lisbon,2353,335,35,5,175
+86,Canvas Paper Set,2023,Amsterdam,509,360,35,6,210
+87,Coffee Table,2020,Rome,2979,355,80,7,560
+88,Coffee Table,2021,Amsterdam,2881,286,80,1,80
+89,Coffee Table,2023,Rome,845,320,80,6,480
+90,Coffee Table,2022,Amsterdam,2818,373,80,9,720
+91,Coffee Table,2023,Amsterdam,1943,298,80,2,160
+92,Coffee Table,2020,Berlin,848,275,80,8,640
+93,Coffee Table,2022,Rome,2568,284,80,4,320
+94,Coffee Table,2022,Rome,2029,383,80,2,160
+95,Coffee Table,2020,Berlin,1220,381,80,9,720
+96,Coffee Table,2020,Amsterdam,2269,261,80,9,720
+97,Coffee Table,2022,Lisbon,2449,287,80,2,160
+98,Coffee Table,2021,Lisbon,1926,348,80,9,720
+99,Coffee Table,2022,Rome,962,372,80,9,720
+100,Candle Light Set,2020,Lisbon,2732,264,25,8,200
+101,Candle Light Set,2022,Lisbon,1840,394,25,1,25
+102,Candle Light Set,2021,Lisbon,2676,298,25,8,200
+103,Candle Light Set,2021,Amsterdam,2007,264,25,2,50
+104,Candle Light Set,2021,Berlin,981,302,25,3,75
+105,Candle Light Set,2021,Amsterdam,2199,296,25,7,175
+106,Candle Light Set,2021,Lisbon,1867,306,25,9,225
+107,Candle Light Set,2023,Lisbon,867,318,25,5,125
+108,Candle Light Set,2022,Amsterdam,835,280,25,6,150
+109,Candle Light Set,2021,Lisbon,2592,266,25,5,125
+110,Candle Light Set,2021,Berlin,1835,312,25,4,100
